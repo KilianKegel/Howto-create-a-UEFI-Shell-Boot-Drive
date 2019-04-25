@@ -2,7 +2,7 @@
 
 1. format the _USB Flash device_ with FAT32
 2. create the directories _\EFI\BOOT_ on that formatted device
-3. download _shell.efi_ from https://github.com/tianocore/edk2/tree/master/ShellBinPkg/UefiShell/X64
+3. download _shell.efi_ from https://github.com/MinnowWare/UDK2018-MinnowBoard/tree/master/edk2/ShellBinPkg/UefiShell/X64/Shell.efi <del>https://github.com/tianocore/edk2/tree/master/ShellBinPkg/UefiShell/X64</del> 
 4. rename _shell.efi_ to _BOOTX64.efi_
 5. copy _BOOTX64.efi_ to the boot device into the folder _\EFI\BOOT_ - that's it
 6. make sure, that on the platform SECURE BOOT is disabled in BIOS Setup!
