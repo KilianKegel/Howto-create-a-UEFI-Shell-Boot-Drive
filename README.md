@@ -8,7 +8,4 @@
 6. make sure, that on the platform SECURE BOOT is disabled in BIOS Setup!
 7. adjust boot order to start UEFI Shell boot device
 
-If you want to run PYTHON, here is the installation package:<br>
-https://github.com/chipsec/chipsec/blob/master/__install__/UEFI/chipsec_uefi_x64.zip
-
 
