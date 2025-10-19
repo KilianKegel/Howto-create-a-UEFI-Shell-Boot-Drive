@@ -15,6 +15,6 @@ Nice to have: <br>**find** and **more** MSDOS clone for UEFI Shell:<br>
 9. download _find.efi_ and _more.efi_ from https://github.com/KilianKegel/Visual-DOS-Tools-for-UEFI-Shell/tree/master/x64/UEFIx86-64%20(Torito%20C%20Library)<br>
 10. copy _find.efi_ and _more.efi_ to the boot device into the folder _\EFI\TOOLS_ - that's it
 
-Alternative solution from [**congatec**](https://www.congatec.com/us/support/application-notes/article/an31-how-to-create-a-bootable-usb-stick-with-a-uefi-shell/).
+Alternative solution from [<img src="https://wiki.congatec.com/resources/assets/svg_20_years_logoRGB__w135.svg">](https://www.congatec.com/us/support/application-notes/article/an31-how-to-create-a-bootable-usb-stick-with-a-uefi-shell/).
 
 
